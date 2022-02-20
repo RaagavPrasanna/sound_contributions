@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch SongDBJavaFX",
+            "request": "launch",
+            "mainClass": "Application.SongDBJavaFX",
+            "projectName": "database-project-01_b95c12ca",
+            "vmArgs": [
+                "--module-path",
+                "C:\\Users\\raaga\\Desktop\\DawsonClasses\\ComputerScience\\3rd_Semester\\Programming_3\\javafx-sdk-17.0.1\\lib",
+                "--add-modules=javafx.controls"
+            ]
+        }
+    ]
+}
