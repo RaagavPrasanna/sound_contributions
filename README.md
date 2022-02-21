@@ -34,6 +34,7 @@ This application communicates with an Oracle database to allow the user to manag
 
 ## Authors and acknowledgment
 https://github.com/RaagavPrasanna
+
 https://github.com/DallaliRim
 
 ## Project status
