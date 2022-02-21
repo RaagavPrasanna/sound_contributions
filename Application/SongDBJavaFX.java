@@ -29,8 +29,8 @@ public class SongDBJavaFX extends Application {
         VBox vLogin = new VBox();
         TextArea taLoginMessages = new TextArea("Login to access the database");
         taLoginMessages.setPrefHeight(75);
-        TextField tfUsername = new TextField("A2036159");
-        TextField tfPassword = new TextField("Bubbulu2003");
+        TextField tfUsername = new TextField("");
+        TextField tfPassword = new TextField("");
         Button btnLogin = new Button("Login");
 
         //Creating the pillar
