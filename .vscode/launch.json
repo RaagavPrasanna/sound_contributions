@@ -15,10 +15,10 @@
             "name": "Launch SongDBJavaFX",
             "request": "launch",
             "mainClass": "Application.SongDBJavaFX",
-            "projectName": "database-project-01_b95c12ca",
+            "projectName": "sound_contributions_c0494a5",
             "vmArgs": [
                 "--module-path",
-                "C:\\Users\\raaga\\Desktop\\DawsonClasses\\ComputerScience\\3rd_Semester\\Programming_3\\javafx-sdk-17.0.1\\lib",
+                "",
                 "--add-modules=javafx.controls"
             ]
         }
