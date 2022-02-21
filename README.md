@@ -5,7 +5,7 @@
 Music Contributors Manager
 
 ## Description
-This application communicates with an Oracle database to allow the user to manage contributions made to songs. The user must however have access to this database and provide their username and password to utilize this application. This project was initially a GitLab project, but was manually transferred over. 
+- This application communicates with an Oracle database to allow the user to manage contributions made to songs. The user must however have access to this database and provide their username and password to utilize this application. This project was initially a GitLab project, but was manually transferred over. 
 
 
 ## Visuals
