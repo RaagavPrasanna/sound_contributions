@@ -13,6 +13,7 @@ This application communicates with an Oracle database to allow the user to manag
 
 ## Functionality
 Logging In:
+                
                 - The application simply will not work if the user does not login. Before using any of the application's functionalities, please assure that you are connected to the Dawson College VPN and login via the application to your Oracle database account.      
 
 Retrieving Data:
