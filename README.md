@@ -12,11 +12,30 @@ This application communicates with an Oracle database to allow the user to manag
 
 
 ## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+1. First open the project, preferably in the VsCode IDE.
+2. Next click on the SongDBJavaFX.java file.
+3. After that, click on the Run and Debug button to create a launch.json file
+4. Following the line that says "project name", add a comma and then on another line add vmArgs to point to the javaFx location.
+5. In the end, it should look something like this:
+        {
+            "type": "java",
+            "name": "Launch SongDBJavaFX",
+            "request": "launch",
+            "mainClass": "Application.SongDBJavaFX",
+            "projectName": "sound_contributions_c0494a5",
+            "vmArgs": [
+                "--module-path",
+                "absolute path to /lib folder given in the javafx library included in the project, (Don't forget to add \\ when writing the path)",
+                "--add-modules=javafx.controls"
+             ]
+        }
+6. Finally run the project by going into the SongDBJavaFX.java file, and clicking on the run button above main method. (Traditional ctrl 5 to run will most likely not work)
+7. Make sure you are connected to the Dawson College VPN or else the application will crash when any button is pressed.
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+https://github.com/RaagavPrasanna
+https://github.com/DallaliRim
 
 ## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+Completed but may go back to it in the future for improvements.
 
