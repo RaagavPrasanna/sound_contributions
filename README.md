@@ -12,7 +12,12 @@ This application communicates with an Oracle database to allow the user to manag
 ![image](https://user-images.githubusercontent.com/93137749/154872763-1e743e9a-4d08-4c68-bfd8-4edeb3dc99a2.png)
 
 ## Functionality
+Logging In:
+                - The application simply will not work if the user does not login. Before using any of the application's functionalities, please assure that you are connected to the Dawson College VPN and login via the application to your Oracle database account.      
 
+Retrieving Data:
+                -    
+               
 
 ## Installation
 1. First open the project, preferably in the VsCode IDE.
