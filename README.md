@@ -17,6 +17,7 @@ This application communicates with an Oracle database to allow the user to manag
 3. After that, click on the Run and Debug button to create a launch.json file
 4. Following the line that says "project name", add a comma and then on another line add vmArgs to point to the javaFx location.
 5. In the end, it should look something like this:
+        
         {
             "type": "java",
             "name": "Launch SongDBJavaFX",
@@ -29,6 +30,7 @@ This application communicates with an Oracle database to allow the user to manag
                 "--add-modules=javafx.controls"
              ]
         }
+        
 6. Finally run the project by going into the SongDBJavaFX.java file, and clicking on the run button above main method. (Traditional ctrl 5 to run will most likely not work)
 7. Make sure you are connected to the Dawson College VPN or else the application will crash when any button is pressed.
 
