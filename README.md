@@ -19,7 +19,10 @@ Logging In:
 Retrieving Data:
 - There are 3 categories of data that can be retrieved:
 1. The first are the roles of the contributors. These can be searched by the RecordingID of the song or the name of the Compilation. The Database will then return all the roles for that contributor in that specific recording or Compilation.
-2.      
+2. The second are the details of a recording or compilation. This can be searched by inputting a recordingID or compilation name. The application will then return details such as the duration, date of release, etc.
+3. Finally we have two queries that will return the roles of an artist, and all of the songs that they have contributed to. The first button will simply return all of the roles that they have ever done, whereas the second one will return all of the details of all of the songs that they have ever been a contributor in. 
+
+
                
 
 ## Installation
