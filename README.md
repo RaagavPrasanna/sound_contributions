@@ -17,8 +17,9 @@ Logging In:
 - The application simply will not work if the user does not login. Before using any of the application's functionalities, please assure that you are connected to the Dawson College VPN and login via the application to your Oracle database account.      
 
 Retrieving Data:
-- There are 6 forms of data that can be retrieved:
-1.      
+- There are 3 categories of data that can be retrieved:
+1. The first are the roles of the contributors. These can be searched by the RecordingID of the song or the name of the Compilation. The Database will then return all the roles for that contributor in that specific recording or Compilation.
+2.      
                
 
 ## Installation
