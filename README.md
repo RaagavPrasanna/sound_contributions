@@ -22,9 +22,11 @@ Retrieving Data:
 2. The second are the details of a recording or compilation. This can be searched by inputting a recordingID or compilation name. The application will then return details such as the duration, date of release, etc.
 3. Finally we have two queries that will return the roles of an artist, and all of the songs that they have contributed to. The first button will simply return all of the roles that they have ever done, whereas the second one will return all of the details of all of the songs that they have ever been a contributor in. 
 
-Updating Data: 
+Updating Data:
+- The update functionality allows us to update any of the contributions data we would like to 
+- For example if we would like to changeteh name of the specific compilation, we can do it.
+![image](https://user-images.githubusercontent.com/93137749/154876049-0f3cd5fe-4cff-4998-85b0-600caf9c5910.png)
 
-               
 
 ## Installation
 1. First open the project, preferably in the VsCode IDE.
