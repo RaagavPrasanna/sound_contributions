@@ -26,6 +26,8 @@ Updating Data:
 - The update functionality allows us to update any of the contributions data we would like to 
 - For example if we would like to changeteh name of the specific compilation, we can do it.
 ![image](https://user-images.githubusercontent.com/93137749/154876049-0f3cd5fe-4cff-4998-85b0-600caf9c5910.png)
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/93137749/154876110-780a6df1-1d93-44f8-89fa-0582b5f7d50f.png">
+
 
 
 ## Installation
