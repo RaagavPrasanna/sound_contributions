@@ -27,7 +27,13 @@ Updating Data:
 - For example if we would like to changeteh name of the specific compilation, we can do it.
 ![image](https://user-images.githubusercontent.com/93137749/154876049-0f3cd5fe-4cff-4998-85b0-600caf9c5910.png)
 <img width="751" alt="image" src="https://user-images.githubusercontent.com/93137749/154876110-780a6df1-1d93-44f8-89fa-0582b5f7d50f.png">
-- The application will even dynamically generate the column options based on the table that we would like to update.
+- The application will even dynamically generate the column options based on the table that the user would like to update.
+
+Inserting Data:
+- The insertion functionality allows us to insert recordings and then add contributors to them.
+- We can specify a recordingID, duration, and the date of release.
+- Then, we can add a contributors name, their role, and the specific recording that they worked on.
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/93137749/154876951-27d40b14-4aa4-4ab9-8867-59fbaa109353.png">
 
 
 
